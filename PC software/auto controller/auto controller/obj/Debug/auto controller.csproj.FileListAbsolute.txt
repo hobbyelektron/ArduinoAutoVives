@@ -1,0 +1,19 @@
+F:\auto controller\auto controller\auto controller\bin\Debug\auto controller.exe.config
+F:\auto controller\auto controller\auto controller\bin\Debug\auto controller.exe
+F:\auto controller\auto controller\auto controller\bin\Debug\auto controller.pdb
+F:\auto controller\auto controller\auto controller\obj\Debug\auto controller.csprojResolveAssemblyReference.cache
+F:\auto controller\auto controller\auto controller\obj\Debug\auto_controller.Form1.resources
+F:\auto controller\auto controller\auto controller\obj\Debug\auto_controller.Properties.Resources.resources
+F:\auto controller\auto controller\auto controller\obj\Debug\auto controller.csproj.GenerateResource.Cache
+F:\auto controller\auto controller\auto controller\obj\Debug\auto controller.exe
+F:\auto controller\auto controller\auto controller\obj\Debug\auto controller.pdb
+F:\auto controller\auto controller\auto controller\bin\Debug\nl-NL\auto controller.resources.dll
+F:\auto controller\auto controller\auto controller\obj\Debug\auto_controller.Form1.nl-NL.resources
+F:\auto controller\auto controller\auto controller\obj\Debug\nl-NL\auto controller.resources.dll
+F:\auto controller\auto controller\auto controller\bin\Debug\auto controller.exe.manifest
+F:\auto controller\auto controller\auto controller\bin\Debug\auto controller.application
+F:\auto controller\auto controller\auto controller\obj\Debug\auto controller.exe.manifest
+F:\auto controller\auto controller\auto controller\obj\Debug\auto controller.application
+F:\auto controller\auto controller\auto controller\bin\Debug\en\auto controller.resources.dll
+F:\auto controller\auto controller\auto controller\obj\Debug\auto_controller.Form1.en.resources
+F:\auto controller\auto controller\auto controller\obj\Debug\en\auto controller.resources.dll
