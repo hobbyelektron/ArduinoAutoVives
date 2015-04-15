@@ -18,17 +18,16 @@ namespace auto_controller
         byte vooruit = 0;
         byte achteruit = 0;
 
+        byte links = 0;
+        byte rechts = 0;
+
         public Form1()
         {
             InitializeComponent();
             Verlichting = Convert.ToByte(0);
         }
 
-        private void btnVooruit_Click(object sender, EventArgs e)
-        {
-            vooruit = Convert.ToByte(255);
-            achteruit = Convert.ToByte(0);
-        }
+        
 
         //BT verbindings gedeelte
         private void btnConnect_Click(object sender, EventArgs e)
@@ -62,6 +61,12 @@ namespace auto_controller
             
         }
 
+        private void btnVooruit_Click(object sender, EventArgs e)
+        {
+            vooruit = Convert.ToByte(255);
+            achteruit = Convert.ToByte(0);
+        }
+
         private void btnStop_Click(object sender, EventArgs e)
         {
             vooruit = Convert.ToByte(0);
@@ -74,6 +79,18 @@ namespace auto_controller
             vooruit = Convert.ToByte(0);
         }
 
+        private void btnLinks_Click(object sender, EventArgs e)
+        {
+            links = Convert.ToByte(255);
+            rechts = Convert.ToByte(0);
+        }
+
+        private void btnRechts_Click(object sender, EventArgs e)
+        {
+            links = Convert.ToByte(0);
+            rechts = Convert.ToByte(255);
+        }
+
         private void timer1_Tick(object sender, EventArgs e)
         {
             try
@@ -84,8 +101,8 @@ namespace auto_controller
                 data[4] = Verlichting;
                 data[3] = achteruit;
                 data[2] = vooruit;
-                data[1] = Convert.ToByte(0);
-                data[0] = Convert.ToByte(0);
+                data[1] = links;
+                data[0] = rechts;
                 serialPort1.Write(data, 0, data.Length);
             }
             catch
@@ -149,6 +166,10 @@ namespace auto_controller
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
             lblServo.Text = "Servo: " + trackBar1.Value + "°";
-        } 
+        }
+
+        
+
+        
     }
 }

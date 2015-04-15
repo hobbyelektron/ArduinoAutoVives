@@ -17,3 +17,22 @@ F:\auto controller\auto controller\auto controller\obj\Debug\auto controller.app
 F:\auto controller\auto controller\auto controller\bin\Debug\en\auto controller.resources.dll
 F:\auto controller\auto controller\auto controller\obj\Debug\auto_controller.Form1.en.resources
 F:\auto controller\auto controller\auto controller\obj\Debug\en\auto controller.resources.dll
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\bin\Debug\auto controller.exe.config
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto controller.exe
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto controller.pdb
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\bin\Debug\auto controller.exe.manifest
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\bin\Debug\auto controller.application
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\bin\Debug\auto controller.exe
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\bin\Debug\auto controller.pdb
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\bin\Debug\en\auto controller.resources.dll
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\bin\Debug\nl-NL\auto controller.resources.dll
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto controller.csprojResolveAssemblyReference.cache
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto_controller.Form1.resources
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto_controller.Properties.Resources.resources
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto_controller.Form1.en.resources
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto_controller.Form1.nl-NL.resources
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto controller.csproj.GenerateResource.Cache
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\en\auto controller.resources.dll
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\nl-NL\auto controller.resources.dll
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto controller.exe.manifest
+F:\ArduinoAutoVives\PC software\auto controller\auto controller\obj\Debug\auto controller.application

@@ -85,12 +85,14 @@
             resources.ApplyResources(this.btnLinks, "btnLinks");
             this.btnLinks.Name = "btnLinks";
             this.btnLinks.UseVisualStyleBackColor = true;
+            this.btnLinks.Click += new System.EventHandler(this.btnLinks_Click);
             // 
             // btnRechts
             // 
             resources.ApplyResources(this.btnRechts, "btnRechts");
             this.btnRechts.Name = "btnRechts";
             this.btnRechts.UseVisualStyleBackColor = true;
+            this.btnRechts.Click += new System.EventHandler(this.btnRechts_Click);
             // 
             // btnLichtAAN
             // 
