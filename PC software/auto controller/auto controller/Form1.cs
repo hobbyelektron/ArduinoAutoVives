@@ -71,6 +71,8 @@ namespace auto_controller
         {
             vooruit = Convert.ToByte(0);
             achteruit = Convert.ToByte(0);
+            links = Convert.ToByte(0);
+            rechts = Convert.ToByte(0);
         }
 
         private void btnAchteruit_Click(object sender, EventArgs e)
