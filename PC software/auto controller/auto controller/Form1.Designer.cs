@@ -117,9 +117,12 @@
             // 
             // trackBar1
             // 
+            this.trackBar1.Cursor = System.Windows.Forms.Cursors.Default;
             resources.ApplyResources(this.trackBar1, "trackBar1");
             this.trackBar1.Maximum = 180;
+            this.trackBar1.Minimum = 10;
             this.trackBar1.Name = "trackBar1";
+            this.trackBar1.Value = 90;
             this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
             // 
             // txbComPoort
